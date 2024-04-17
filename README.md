@@ -145,7 +145,10 @@ Publish the website in the given URL.
 `````
 
 ## OUTPUT:
-![image](https://github.com/dfghytr/Calc/assets/138970628/643e3bbe-201d-4c4c-b1d7-81616edd5e3f)
+![Screenshot 2024-04-17 085515](https://github.com/dfghytr/Calc/assets/138970628/bcfe4a40-3fa6-474a-bc30-905528f5b07a)
+![Screenshot 2024-04-17 085525](https://github.com/dfghytr/Calc/assets/138970628/e13aea52-7ed9-49e8-b158-83edbe7bfd27)
+
+
 
 
 ## RESULT:
