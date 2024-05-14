@@ -46,8 +46,8 @@ Publish the website in the given URL.
             border: 1px solid #ccc;
             padding: 20px;
             border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            background-color: aquamarine;
+            box-shadow: 0 0 10px rgba(0, 187, 255, 0.1);
+            background-color: rgb(255, 0, 0);
 
         }
         input[type="text"] {
@@ -70,7 +70,7 @@ Publish the website in the given URL.
             transition: background-color 0.3s;
         }
         input[type="button"]:hover {
-            background-color: cadetblue;
+            background-color: rgb(255, 0, 208);
         }
         .row {
             display: flex;
@@ -80,7 +80,7 @@ Publish the website in the given URL.
             margin-top: 10px;
         }
         .result {
-            background-color: #007bff;
+            background-color: #000000;
             color: #fff;
         }
     </style>
@@ -90,8 +90,8 @@ Publish the website in the given URL.
 <div class="calculator">
     <div>
 
-    <h1 style="font-size: 30px;">Abdul Kalam </h1>
-    <h2 style="font-size: 20px;">232223230003</h2>
+    <h1 style="font-size: 30px;">TAMILARASAN </h1>
+    <h2 style="font-size: 20px;">232223100056</h2>
     </div>
 
     <input type="text" id="display" class="result" readonly>
@@ -145,8 +145,8 @@ Publish the website in the given URL.
 `````
 
 ## OUTPUT:
-![Screenshot 2024-04-17 085515](https://github.com/dfghytr/Calc/assets/138970628/bcfe4a40-3fa6-474a-bc30-905528f5b07a)
-![Screenshot 2024-04-17 085525](https://github.com/dfghytr/Calc/assets/138970628/e13aea52-7ed9-49e8-b158-83edbe7bfd27)
+![Screenshot 2024-05-14 091444](https://github.com/KSTamilarasan17/Calc-1/assets/138849236/47722d31-177d-4a89-ae38-b9c214e67c9f)
+![Screenshot 2024-05-14 091454](https://github.com/KSTamilarasan17/Calc-1/assets/138849236/95fdb232-b9a5-409a-9c64-2454169fb11c)
 
 
 
